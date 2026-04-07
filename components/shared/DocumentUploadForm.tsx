@@ -64,7 +64,7 @@ const DocumentUploadForm: React.FC<DocumentUploadFormProps> = ({ onSuccess, onCa
     useEffect(() => {
         if (currentUser) {
             if (currentUser.role !== Role.ADMIN) {
-                setOfficeName('BILIRAN PROVINCE STATE UNIVERSITY');
+                setOfficeName('PIA');
                 setTelephone('053-500-9045');
                 setSection('Administrative');
                 setAddress('P.I Garcia Street, Naval, Biliran');
