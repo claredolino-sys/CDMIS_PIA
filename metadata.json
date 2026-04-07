@@ -1,0 +1,5 @@
+{
+  "name": "CENTRALIZED DOCUMENT MANAGEMENT INFORMATION SYSTEM",
+  "description": "A web-based application to manage document inventories, track user activity, and handle document requests for PIA",
+  "requestFramePermissions": []
+}
